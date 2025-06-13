@@ -1,3 +1,5 @@
+--metadb:function circ_log_search
+
 -- circ_log_search based on Wayne Schneider's port to Metadb
 
 CREATE FUNCTION circ_log_search(
