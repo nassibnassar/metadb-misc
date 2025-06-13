@@ -1,0 +1,13 @@
+{
+    "displayName": "circ_log_search",
+    "description": "",
+    "instructions": "",
+    "parameters": [
+        {
+            "name": "barcode",
+            "displayName": "Bar code",
+            "type": "text",
+            "required": true
+        }
+    ]
+}
