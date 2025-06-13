@@ -2,6 +2,8 @@
 
 -- circ_log_search based on Wayne Schneider's port to Metadb
 
+DROP FUNCTION IF EXISTS circ_log_search;
+
 CREATE FUNCTION circ_log_search(
     barcode text)
 RETURNS TABLE(
